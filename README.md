@@ -4,4 +4,4 @@
 Code for Stachenfeld lab projects.
 Welcome!
 
-Questions? Contact `ks 3 3 1 6 _at_ columbia.edu` (remove spaces, `_at_` to `@`).
+Questions? Contact `ks 3 3 1 6 _at_ columbia.edu` (remove spaces, `_at_` -> `@`).
